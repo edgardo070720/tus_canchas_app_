@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "981569090691",
+    "project_id": "tuscanchas-app",
+    "storage_bucket": "tuscanchas-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:981569090691:android:0fee247ef1f005138cd7b6",
+        "android_client_info": {
+          "package_name": "com.example.tus_canchas_app_v2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDgfWGkoM-dzlQ8VWnJHjcTs5jYHnBJgXM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
